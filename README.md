@@ -1,5 +1,4 @@
-### Hi there, I'm Philip <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+### Hi there, I'm Philip 👋
 
 [![Website](https://img.shields.io/website?label=philippencal.github.io&style=for-the-badge&url=https%3A%2F%2Fphilippencal.github.io)](https://philippencal.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/philippencal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/philippencal)
@@ -28,7 +27,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt=".NET" width="26px" src=https://avatars.githubusercontent.com/u/9141961?s=200&v=4" />][website]
+[<img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][website]
