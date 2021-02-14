@@ -34,6 +34,9 @@
 [<img align="left" alt="Git Hub" width="32px" src="/assets/images/github.png" />][website]
 [<img align="left" alt="MySql" width="32px" src="/assets/images/mysql.png" />][website]
 [<img align="left" alt="Wordpress" width="32px" src="/assets/images/wordpress.png" />][website]
+[<img align="left" alt="AWS" width="32px" src="/assets/images/aws.svg" />][website]
+[<img align="left" alt="Kafka" width="32px" src="/assets/images/kafka.svg" />][website]
+[<img align="left" alt="Linux" width="32px" src="/assets/images/linux.svg" />][website]
 
 <br />
 <br />
