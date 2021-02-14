@@ -13,15 +13,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="hilip Pencal | Website" width="22px" src="/philippencal/philippencal/assets/images/globe.svg" />][website]
-[<img align="left" alt="Philip Pencal | Twitter" width="22px" src="/philippencal/philippencal/assets/images/twitter.svg" />][twitter]
-[<img align="left" alt="Philip Pencal | LinkedIn" width="22px" src="/philippencal/philippencal/assets/images/linkedin.svg" />][linkedin]
+[<img align="left" alt="hilip Pencal | Website" width="22px" src="/assets/images/globe.svg" />][website]
+[<img align="left" alt="Philip Pencal | Twitter" width="22px" src="/assets/images/twitter.svg" />][twitter]
+[<img align="left" alt="Philip Pencal | LinkedIn" width="22px" src="/assets/images/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="32px" src="/philippencal/philippencal/assets/images/dotnet.png" />][website]
+[<img align="left" alt="Visual Studio Code" width="32px" src="/assets/images/dotnet.png" />][website]
 
 <br />
 <br />
