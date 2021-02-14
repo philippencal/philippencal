@@ -29,6 +29,11 @@
 [<img align="left" alt="Typescript" width="32px" src="/assets/images/typescript.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="32px" src="/assets/images/vscode.png" />][website]
 [<img align="left" alt="Python" width="32px" src="/assets/images/python.png" />][website]
+[<img align="left" alt="Git" width="32px" src="/assets/images/git.png" />][website]
+[<img align="left" alt="Git Lab" width="32px" src="/assets/images/gitlab.png" />][website]
+[<img align="left" alt="Git Hub" width="32px" src="/assets/images/github.png" />][website]
+[<img align="left" alt="MySql" width="32px" src="/assets/images/mysql.png" />][website]
+[<img align="left" alt="Wordpress" width="32px" src="/assets/images/wordpress.png" />][website]
 
 <br />
 <br />
