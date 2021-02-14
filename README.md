@@ -1,7 +1,7 @@
 ### Hi there, I'm Philip 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://philippencal.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/philippencal)
+[![Website](https://img.shields.io/website?label=philippencal.github.io&style=for-the-badge&url=https%3A%2F%2Fphilippencal.github.io)](https://philippencal.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/philippencal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/philippencal)
 
 ## I'm a Husband and Software Engineer!!
 
