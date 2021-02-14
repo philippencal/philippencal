@@ -21,7 +21,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="32px" src="/assets/images/dotnet.png" />][website]
+[<img align="left" alt=".NET Technologies" width="32px" src="/assets/images/dotnet.png" />][website]
+[<img align="left" alt="CSharp" width="32px" src="/assets/images/csharp.png" />][website]
+[<img align="left" alt="Angular" width="32px" src="/assets/images/angular.png" />][website]
+[<img align="left" alt="React" width="32px" src="/assets/images/react.png" />][website]
+[<img align="left" alt="Javascript" width="32px" src="/assets/images/javascript.png" />][website]
+[<img align="left" alt="Typescript" width="32px" src="/assets/images/typescript.png" />][website]
+[<img align="left" alt="Visual Studio Code" width="32px" src="/assets/images/vscode.png" />][website]
+[<img align="left" alt="Python" width="32px" src="/assets/images/python.png" />][website]
 
 <br />
 <br />
