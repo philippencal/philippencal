@@ -43,12 +43,12 @@
 <br />
 
 ## My Github Stats
-
-### Recent Activity
 <img align="" height='150px'
 src="https://github-readme-stats.vercel.app/api?username=philippencal&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
 <img align="" height='150px'
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippencal&layout=compact&theme=dark"/>
+
+### Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
@@ -56,8 +56,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippencal
 
 <details>
   <summary>📕 Latest Blog Posts</summary>
-
-  ### 📕 Latest Blog Posts
 
   <!-- BLOG-POST-LIST:START -->
   <!-- BLOG-POST-LIST:END -->
