@@ -41,32 +41,28 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007acc)
 
 <br />
-<br />
 
----
+## My Github Stats
 
-### 📕 Latest Blog Posts
+### Recent Activity
+<img align="" height='150px'
+src="https://github-readme-stats.vercel.app/api?username=philippencal&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
+<img align="" height='150px'
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippencal&layout=compact&theme=dark"/>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@philip-pencal)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
-</details>
-
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>📕 Latest Blog Posts</summary>
 
-  <img align="left" alt="Philip Pencal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=philippencal&show_icons=true&hide_border=true" />
+  ### 📕 Latest Blog Posts
+
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+
+  ➡️ [more blog posts...](https://medium.com/@philip-pencal)
 
 </details>
 
