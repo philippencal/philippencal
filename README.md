@@ -21,26 +21,24 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt=".NET Technologies" width="32px" src="/assets/images/dotnet.png" />][website]
-[<img align="left" alt="CSharp" width="32px" src="/assets/images/csharp.png" />][website]
-[<img align="left" alt="Angular" width="32px" src="/assets/images/angular.png" />][website]
-[<img align="left" alt="React" width="32px" src="/assets/images/react.png" />][website]
-[<img align="left" alt="Javascript" width="32px" src="/assets/images/javascript.png" />][website]
-[<img align="left" alt="Typescript" width="32px" src="/assets/images/typescript.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="32px" src="/assets/images/vscode.png" />][website]
-[<img align="left" alt="Python" width="32px" src="/assets/images/python.png" />][website]
-
-<br />
-<br />
-
-[<img align="left" alt="Git" width="32px" src="/assets/images/git.png" />][website]
-[<img align="left" alt="Git Lab" width="32px" src="/assets/images/gitlab.png" />][website]
-[<img align="left" alt="Git Hub" width="32px" src="/assets/images/github.png" />][website]
-[<img align="left" alt="MySql" width="32px" src="/assets/images/mysql.png" />][website]
-[<img align="left" alt="Wordpress" width="32px" src="/assets/images/wordpress.png" />][website]
-[<img align="left" alt="AWS" width="32px" src="/assets/images/aws.svg" />][website]
-[<img align="left" alt="Kafka" width="32px" src="/assets/images/kafka.svg" />][website]
-[<img align="left" alt="Linux" width="32px" src="/assets/images/linux.svg" />][website]
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp&logoColor=239120)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.NET&logoColor=5C2D91)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-000000?style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase&logoColor=ffca28)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visual-studio&logoColor=5c2d91)
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007acc)
 
 <br />
 <br />
