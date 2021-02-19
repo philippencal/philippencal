@@ -40,7 +40,6 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visual-studio&logoColor=5c2d91)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007acc)
 
-<br />
 
 ## My Github Stats
 <img align="" height='150px'
@@ -53,6 +52,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippencal
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
+
+
+## Stay Tuned
 
 <details>
   <summary>📕 Latest Blog Posts</summary>
