@@ -35,6 +35,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=0052CC)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000000?style=flat&logo=azure-devops&logoColor=0078d7)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=00adef)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&logoColor=0089d6)
@@ -46,6 +47,9 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase&logoColor=ffca28)
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-000000?style=flat&logo=mongodb&logoColor=47a248)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-000000?style=flat&logo=apache-cassandra&logoColor=1287b1)
+![Redis Cache](https://img.shields.io/badge/-Redis%20Cache-000000?style=flat&logo=redis&logoColor=dc382d)
+![Kafka](https://img.shields.io/badge/-Kafka%20Cache-000000?style=flat&logo=apache-kafka&logoColor=ffffff)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=rabbitmq&logoColor=ff6600)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visual-studio&logoColor=5c2d91)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007acc)
 
