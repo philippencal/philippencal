@@ -8,7 +8,7 @@
 - 🔭 I have more than 40 professional projects completed
 - 🌱 I’m currently learning next.JS and cloud services
 - 🌍 I'm currently living in Luxembourg
-- 🥅 2021 Goals: I want to stay hungry, stay foolish
+- 🥅 2024 Goals: I want to stay hungry, stay foolish
 - ⚡ Fun fact: C# is almost my mother tongue
 
 ### Connect with me:
